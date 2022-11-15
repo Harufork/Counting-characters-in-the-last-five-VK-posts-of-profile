@@ -1,17 +1,9 @@
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
-using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using System.Collections.Immutable;
-using System.IO;
 using System.Net;
-using Microsoft.EntityFrameworkCore;
 using TechAppFor.Models;
 using TechAppFor;
-using Microsoft.AspNetCore.Http;
-using Microsoft.EntityFrameworkCore.Infrastructure;
-using Microsoft.EntityFrameworkCore.Storage;
+
 
 
 
