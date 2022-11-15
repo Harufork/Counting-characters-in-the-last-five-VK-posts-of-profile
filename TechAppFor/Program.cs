@@ -15,7 +15,7 @@ using Microsoft.EntityFrameworkCore.Storage;
 
 
 
-// Hi, i`m Andrew! My Telegram: @HARUFORK
+// Hi, i`m Andrew! My Telegram: @HARUFORK 
 
 
 
@@ -46,7 +46,7 @@ builder.Services.AddSwaggerGen(options =>
     });
 });
 
-// function get response
+// function  get response
 JObject wall(string id, int offset, int count, string AccesToken, string VerVkApi)
 {
     var wc = new WebClient() { Encoding = System.Text.Encoding.UTF8 };
