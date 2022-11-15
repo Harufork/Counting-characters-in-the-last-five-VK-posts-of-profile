@@ -1,4 +1,4 @@
-# TestAppForUDV
+# Counting characters in the last five VK posts of profile
 
 Ввод для токена (Acces token) и строки подключения базы данных (Connection string) находится в "appsettings.json".
 
